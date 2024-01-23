@@ -20,7 +20,7 @@ repo for the lego scratch block coding and related materials
 
 6.  here are some commands as your reference
 
-    # clone the remote repo to the local machine (only run once, if you never download the repo before)
+    <> clone the remote repo to the local machine (only run once, if you never download the repo before)
 
     $ git clone https://github.com/m-xin/lego-stealth-python.git
 
