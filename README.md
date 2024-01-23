@@ -20,8 +20,7 @@ repo for the lego scratch block coding and related materials
 
 6.  here are some commands as your reference
 
-    <> clone the remote repo to the local machine (only run once, if you never download the repo before)
-
+    # clone the remote repo to the local machine (only run once, if you never download the repo before)
     $ git clone https://github.com/m-xin/lego-stealth-python.git
 
     # create your local branch based on master (please use the following style for your branch)
@@ -57,11 +56,11 @@ repo for the lego scratch block coding and related materials
 
     we will use the master branch to deploy the combined code block.
 
-7.  please create a folder with the name of your kid's firstname and last name initial.
+8.  please create a folder with the name of your kid's firstname and last name initial.
 
-8.  in the end, we will combine all kid's work to a filename of 'combined', in the folder mane of "combined".
+9.  in the end, we will combine all kid's work to a filename of 'combined', in the folder mane of "combined".
 
-9.  Here are some useful video links to teach kids to encapsulate their work to a function,
+10.  Here are some useful video links to teach kids to encapsulate their work to a function,
     how to make a PID control, how to use Gyro for straight line movement, and cornering. # gyro turn: https://www.youtube.com/watch?v=nXLXmUY4JnQ # how to use "my block" (i.e. functions/modules in c++ or python): https://www.youtube.com/watch?v=PwSW8L5stmM # PID control: https://www.youtube.com/watch?v=HGwXER0hRMg
 
-10. Please feel free to add items here, Thanks!
+11. Please feel free to add items here, Thanks!
